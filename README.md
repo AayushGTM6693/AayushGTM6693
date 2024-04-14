@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🐷 , I'm Aayush Gautam</h1>
 <h3 align="center">Frontend Enthusiast | React js</h3>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Node js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AayushGTM6693?tab=repositories](https://github.com/AayushGTM6693?tab=repositories)
 
