@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🐷 , I'm Aayush Gautam</h1>
-<h3 align="center">Frontend Enthusiast | React js</h3>
+<h3 align="center">Full Stack Enthusiast | MERN </h3>
 
 - 🌱 I’m currently learning **Node js**
 
