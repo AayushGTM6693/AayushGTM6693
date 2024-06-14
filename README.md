@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🐷 , I'm Aayush Gautam</h1>
 <h3 align="center">Full Stack Enthusiast | MERN </h3>
 
-- 🌱 I’m currently learning **Node js**
+-  why **💞**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AayushGTM6693?tab=repositories](https://github.com/AayushGTM6693?tab=repositories)
 
